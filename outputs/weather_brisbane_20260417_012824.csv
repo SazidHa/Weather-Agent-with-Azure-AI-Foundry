@@ -1,0 +1,2 @@
+location,country,condition,temperature_c,feels_like_c,humidity,wind_speed,wind_direction,pressure,visibility,sunrise,sunset,report_time_utc
+Brisbane,Australia,Clear,19.1,19.1,88,,,,,,,2026-04-16T15:28:24.157077+00:00
